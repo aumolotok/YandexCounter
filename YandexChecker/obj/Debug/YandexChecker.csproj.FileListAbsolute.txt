@@ -9,3 +9,13 @@ D:\yandex\YandexChecker\YandexChecker\obj\Debug\YandexChecker.exe
 D:\yandex\YandexChecker\YandexChecker\obj\Debug\YandexChecker.pdb
 C:\Users\Андрей\Downloads\yandex\yandex\YandexChecker\YandexChecker\obj\Debug\YandexChecker.exe
 C:\Users\Андрей\Downloads\yandex\yandex\YandexChecker\YandexChecker\obj\Debug\YandexChecker.pdb
+D:\GitProjects\YandexCounter\YandexChecker\bin\Debug\YandexChecker.exe.config
+D:\GitProjects\YandexCounter\YandexChecker\bin\Debug\YandexChecker.exe
+D:\GitProjects\YandexCounter\YandexChecker\bin\Debug\YandexChecker.pdb
+D:\GitProjects\YandexCounter\YandexChecker\bin\Debug\WebDriver.dll
+D:\GitProjects\YandexCounter\YandexChecker\bin\Debug\WebDriver.xml
+D:\GitProjects\YandexCounter\YandexChecker\obj\Debug\YandexChecker.csprojAssemblyReference.cache
+D:\GitProjects\YandexCounter\YandexChecker\obj\Debug\YandexChecker.csproj.CoreCompileInputs.cache
+D:\GitProjects\YandexCounter\YandexChecker\obj\Debug\YandexChecker.csproj.CopyComplete
+D:\GitProjects\YandexCounter\YandexChecker\obj\Debug\YandexChecker.exe
+D:\GitProjects\YandexCounter\YandexChecker\obj\Debug\YandexChecker.pdb
