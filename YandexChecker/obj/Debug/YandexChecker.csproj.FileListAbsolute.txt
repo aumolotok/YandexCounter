@@ -1,0 +1,11 @@
+D:\yandex\YandexChecker\YandexChecker\bin\Debug\YandexChecker.exe.config
+D:\yandex\YandexChecker\YandexChecker\bin\Debug\YandexChecker.exe
+D:\yandex\YandexChecker\YandexChecker\bin\Debug\YandexChecker.pdb
+D:\yandex\YandexChecker\YandexChecker\bin\Debug\WebDriver.dll
+D:\yandex\YandexChecker\YandexChecker\bin\Debug\WebDriver.xml
+D:\yandex\YandexChecker\YandexChecker\obj\Debug\YandexChecker.csprojResolveAssemblyReference.cache
+D:\yandex\YandexChecker\YandexChecker\obj\Debug\YandexChecker.csproj.CoreCompileInputs.cache
+D:\yandex\YandexChecker\YandexChecker\obj\Debug\YandexChecker.exe
+D:\yandex\YandexChecker\YandexChecker\obj\Debug\YandexChecker.pdb
+C:\Users\Андрей\Downloads\yandex\yandex\YandexChecker\YandexChecker\obj\Debug\YandexChecker.exe
+C:\Users\Андрей\Downloads\yandex\yandex\YandexChecker\YandexChecker\obj\Debug\YandexChecker.pdb
