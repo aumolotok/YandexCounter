@@ -4,3 +4,11 @@ packages/
 YandexChecker/bin/
 
 \.vs/
+
+*.exe
+
+Brj/bin/Debug/
+
+Brj/obj/Debug/
+
+YandexChecker/obj/Debug/
