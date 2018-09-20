@@ -71,6 +71,7 @@
     <Compile Include="Elements\IPage.cs" />
     <Compile Include="Elements\MainPage.cs" />
     <Compile Include="Elements\PageObjects\GlassObject.cs" />
+    <Compile Include="Elements\Salercs.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>

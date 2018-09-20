@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
@@ -24,6 +25,10 @@ namespace Brj
     {
         private MainPage mainPage;
 
+        private bool doesSale = false;
+
+        private Thread saleThread;
+
         public MainWindow()
         {
             InitializeComponent();
@@ -38,7 +43,20 @@ namespace Brj
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
-            Value1.Content = mainPage.glassObject.GetValue();
+            saleThread = new Thread(new ThreadStart(delegate () { TryThread(mainPage, label); }));
+            while (doesSale)
+            {
+                Thread.Sleep(1000);
+                label.Content = mainPage.glassObject.GetValue();
+                Label a = label;
+            }
         }
+
+        private void Stop_Click(object sender, RoutedEventArgs e)
+        {
+            doesSale = false;
+        }
+
+        private static void TryThread(MainPage page, Label label) => label.Content = page.glassObject.GetValue();
     }
 }

@@ -12,9 +12,10 @@
             <ColumnDefinition Width="163*"/>
         </Grid.ColumnDefinitions>
         <Button Content="Create" HorizontalAlignment="Left" Height="116" Margin="10,293,0,0" VerticalAlignment="Top" Width="260" Click="Button_Click"/>
-        <Label x:Name="Value1" Content="Label" HorizontalAlignment="Left" Height="38" Margin="80,107,0,0" VerticalAlignment="Top" Width="147"/>
+        <Label x:Name="label" Content="Label" HorizontalAlignment="Left" Height="38" Margin="80,107,0,0" VerticalAlignment="Top" Width="147"/>
         <Label Content="Label" HorizontalAlignment="Left" Height="39" Margin="80,145,0,0" VerticalAlignment="Top" Width="147"/>
-        <Button Content="GetValue" HorizontalAlignment="Left" Margin="243,118,0,0" VerticalAlignment="Top" Width="142" Height="45" Grid.ColumnSpan="2" Click="Button_Click_1"/>
+        <Button x:Name="StartSales" Content="Start Sales" HorizontalAlignment="Left" Margin="243,118,0,0" VerticalAlignment="Top" Width="142" Height="45" Grid.ColumnSpan="2" Click="Button_Click_1"/>
+        <Button x:Name="Stop" Content="Stop Sales" HorizontalAlignment="Left" Margin="243,190,0,0" VerticalAlignment="Top" Width="142" Height="52" Grid.ColumnSpan="2" Click="Stop_Click"/>
 
     </Grid>
 </Window>
